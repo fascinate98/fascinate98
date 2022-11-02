@@ -1,6 +1,6 @@
 
 
-## Hey, I'm [fascinate98!](https://github.com/fascinate98) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=fascinate98&label=Views&color=blue&style=plastic" alt="fascinate98" /> </a>
+## Hey, I'm [x3rocode!](https://github.com/x3rocode) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=fascinate98&label=Views&color=blue&style=plastic" alt="x3rocode" /> </a>
 
 Mobile Engineer from Seoul, Korea. I love building applications & discussing new product ideas.
 <br/>
@@ -9,7 +9,7 @@ Mobile Engineer from Seoul, Korea. I love building applications & discussing new
 
  <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fascinate98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=x3rocode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
