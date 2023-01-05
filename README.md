@@ -2,7 +2,7 @@
 
 ## Hey, I'm [x3rocode!](https://github.com/x3rocode) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=fascinate98&label=Views&color=blue&style=plastic" alt="x3rocode" /> </a>
 
-Mobile Engineer from Seoul, Korea. I love building applications & discussing new product ideas.
+Mobile Engineer from Seoul, Korea. I love building applications & beautiful UI.
 <br/>
 <br/>
 
